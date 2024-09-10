@@ -3,5 +3,8 @@ public class Calculator{
         
         int a=2;
         int b=4;
+
+        int sum = a + b;
+        System.out.println("Addition :" = sum);
     }
 }
