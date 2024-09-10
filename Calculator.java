@@ -15,5 +15,8 @@ public class Calculator{
 
         int quotient = a / b;
         System.out.println("Quotient : " quotient);
+
+        int modulus = a % b;
+        System.out.println("Modulus :" modulus);
     }
 }
